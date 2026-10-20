@@ -68,7 +68,7 @@ I build web applications, REST APIs, and practical software, with a focus on cle
 | 🏪 **E-commerce Web App** | Storefront with product catalog, category filtering, user authentication, and a responsive UI connected to the Laravel backend. | React · JavaScript · Laravel · MySQL |
 | 📊 **Admin Dashboard** | Responsive admin interface for managing digital products, categories, and content through API integration. | Next.js · TypeScript · REST API |
 
-> 🔗 Add a link to each repository or live demo here, e.g. `[View repo](https://github.com/SornTola4424/your-repo)`.
+
 
 ---
 
@@ -81,16 +81,15 @@ I build web applications, REST APIs, and practical software, with a focus on cle
 - 🧪 API testing, debugging, and error handling
 - 📱 Mobile development with Flutter
 
----
+
+
+<!-- <div align="center">
 
 ## 📊 GitHub Stats
-
-<div align="center">
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SornTola4424&show_icons=true&theme=tokyonight&hide_border=true)
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SornTola4424&layout=compact&theme=tokyonight&hide_border=true)
 
-</div>
+</div> -->
 
 ---
 
@@ -107,8 +106,8 @@ Becoming a better developer is about more than syntax: understanding problems, d
 [![GitHub](https://img.shields.io/badge/GitHub-SornTola4424-181717?style=for-the-badge&logo=github)](https://github.com/SornTola4424)
 <!-- Add your own links below, then remove this comment:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 -->
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sorntola73@gmail.com)
 
 <div align="center">
 
