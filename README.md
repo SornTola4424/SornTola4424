@@ -6,9 +6,6 @@
 
 I build web applications, REST APIs, and practical software, with a focus on clean, maintainable code.
 
-![Profile views](https://komarev.com/ghpvc/?username=SornTola4424&style=for-the-badge&color=blue)
-[![GitHub followers](https://img.shields.io/github/followers/SornTola4424?style=for-the-badge&logo=github)](https://github.com/SornTola4424)
-
 </div>
 
 ---
